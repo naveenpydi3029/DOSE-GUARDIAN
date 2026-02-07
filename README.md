@@ -108,7 +108,7 @@ The system integrates a Real-Time Clock (RTC), LCD display, keypad interface, an
 
 
 
-  🔹LCD displays TAKE MEDICINE
+  🔹LCD displays REMAINDER!TIME FOR DOSE
 
   🔹System waits for user confirmation
 
@@ -128,11 +128,12 @@ The system integrates a Real-Time Clock (RTC), LCD display, keypad interface, an
   🔹Successful confirmation 🎉
 
 ## 8️⃣ Failure to Take Medicine
+![image alt](https://github.com/naveenpydi3029/DOSE-GUARDIAN/blob/d2579171a3f6442e9522397fb5f983f4417ca4f4/Screenshots/ALERT.png)
 
 
   🔹Triggered if switch is not pressed ❌
 
-  🔹LCD shows FAILED TO TAKE MEDICINE
+  🔹LCD shows ALERT!DOSE MISSED
 
   🔹Warning LED remains ON 🚨
 

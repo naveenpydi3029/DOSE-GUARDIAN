@@ -85,13 +85,14 @@ The system integrates a Real-Time Clock (RTC), LCD display, keypad interface, an
 
 
 
-1: HR 2: MN 3: SC 4: MED_T 5: EXIT
+
 
   🔹Set hours, minutes, seconds
 
   🔹Configure medicine reminder time ⏰
 
 ## 5️⃣ Medicine Time Alert
+![image alt](https://github.com/naveenpydi3029/DOSE-GUARDIAN/blob/0122acdbafe75ab6a1b718154b1277b9e15db26e/Screenshots/MEDICINE_TIME.png)
 
 
 

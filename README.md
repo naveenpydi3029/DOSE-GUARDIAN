@@ -81,6 +81,7 @@ The system integrates a Real-Time Clock (RTC), LCD display, keypad interface, an
   🔹User-friendly interface 🧭
 
 ## 4️⃣ Time & Medicine Setup Menu
+![image alt](https://github.com/naveenpydi3029/DOSE-GUARDIAN/blob/802871054356a92d93ef35a6f519ca231c8c2040/Screenshots/RTC_EDIT.png)
 
 
 

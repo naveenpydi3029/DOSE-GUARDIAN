@@ -103,6 +103,7 @@ The system integrates a Real-Time Clock (RTC), LCD display, keypad interface, an
   🔹LED glows for attention 💡
 
 ## 6️⃣ Take Medicine Alert
+![image alt](https://github.com/naveenpydi3029/DOSE-GUARDIAN/blob/03357e10a67e3c8c7c923f5cd91c6df77543b8b2/Screenshots/REMINDER.png)
 
 
 

@@ -108,7 +108,7 @@ The system integrates a Real-Time Clock (RTC), LCD display, keypad interface, an
 
 
 
-  🔹LCD displays REMAINDER!TIME FOR DOSE
+  🔹LCD displays REMAINDER! TIME FOR DOSE
 
   🔹System waits for user confirmation
 
@@ -133,7 +133,7 @@ The system integrates a Real-Time Clock (RTC), LCD display, keypad interface, an
 
   🔹Triggered if switch is not pressed ❌
 
-  🔹LCD shows ALERT!DOSE MISSED
+  🔹LCD shows ALERT! DOSE MISSED
 
   🔹Warning LED remains ON 🚨
 

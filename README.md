@@ -60,7 +60,7 @@ The system integrates a Real-Time Clock (RTC), LCD display, keypad interface, an
   🔹Confirms LCD works in 8-bit mode ✅
 
 ## 2️⃣ RTC Date & Time Display
-![image alt](https://github.com/naveenpydi3029/DOSE-GUARDIAN/blob/41b5aa3f6266d67279a9d4fbef4c30de23e4edbe/Screenshots/RTC_TIME.png).
+![image alt](https://github.com/naveenpydi3029/DOSE-GUARDIAN/blob/41b5aa3f6266d67279a9d4fbef4c30de23e4edbe/Screenshots/RTC_TIME.png)
 
 
 
@@ -72,6 +72,7 @@ The system integrates a Real-Time Clock (RTC), LCD display, keypad interface, an
   🔹RTC runs continuously ⏳
 
 ## 3️⃣ Main Menu Screen
+![image alt](https://github.com/naveenpydi3029/DOSE-GUARDIAN/blob/4660064bb025adf407275396f000897e1265050e/Screenshots/MENU.png)
 
 
 

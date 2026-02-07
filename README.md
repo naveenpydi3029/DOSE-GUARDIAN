@@ -1,7 +1,9 @@
 # Smart Medicine Reminder System using LPC2148(Proteus)
 
 ## Project Description
-DoseGuardian is a microcontroller-based smart medication reminder that uses an RTC, LCD, keypad, buzzer, and LEDs to alert patients when it’s time to take medicine. Users can set schedules, receive audio-visual reminders, confirm doses, and track missed medications for safer, more reliable treatment adherence.
+🩺 DoseGuardian – Smart Medication Reminder System
+DoseGuardian is a microcontroller-based intelligent medicine reminder designed to ensure patients take their medications on schedule. It is particularly helpful for elderly people and those undergoing long-term treatments who may forget or skip doses.
+The system integrates a Real-Time Clock (RTC), LCD display, keypad interface, and audio-visual alerts to deliver a dependable and easy-to-use medication reminder solution.
 
 ## 🧠Key Features
 

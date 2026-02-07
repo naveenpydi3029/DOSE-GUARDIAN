@@ -115,6 +115,7 @@ The system integrates a Real-Time Clock (RTC), LCD display, keypad interface, an
   🔹Switch press confirms intake ✅
 
 ## 7️⃣ Medicine Taken Confirmation
+![image alt](https://github.com/naveenpydi3029/DOSE-GUARDIAN/blob/641bdc5c6d8b7a5822c01bc55092573c0e90bb9c/Screenshots/MED_TAKEN.png)
 
 
 
